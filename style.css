@@ -21,17 +21,17 @@ body {
 }
 
 .image1 {
-    background-image: url("./images/pic1.jpg");
+    background-image: url("./images/pic1.jpeg");
     min-height: 100%;
 }
 
 .image2 {
-    background-image: url("./images/pic2.jpg");
+    background-image: url("./images/pic2.jpeg");
     min-height: 100%;
 }
 
 .image3 {
-    background-image: url("./images/pic3.jpg");
+    background-image: url("./images/pic3.jpeg");
     min-height: 100%;
 }
 
@@ -43,7 +43,7 @@ body {
 }
 
 .image4 {
-    background-image: url("./images/pic4.jpg");
+    background-image: url("./images/pic4.jpeg");
     min-height: 100%;
 }
 
